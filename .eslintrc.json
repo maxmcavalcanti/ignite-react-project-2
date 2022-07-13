@@ -1,7 +1,4 @@
 {
-  "extends": "@rocketseat/eslint-config/react",
-  "rules": {
-    "prettier/prettier": ["off", { "singleQuote": true }]
-  }
+  "extends": "@rocketseat/eslint-config/react"   // <----------
   
 }
